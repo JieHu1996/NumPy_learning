@@ -1,1 +1,1 @@
-# Record some common syntax and functions of NumPy
+### Record some common syntax and functions of NumPy
